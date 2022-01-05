@@ -1,10 +1,13 @@
-body{
-    font-family: 'Merriweather', serif;
+p{
     font-family: 'Poppins', sans-serif;
 }
-h1{
-    font-size: 60px;
+#pad-h1{
+    font-size: 70px;
     padding-left: 15px;
+}
+h1{
+    font-family: 'Yeseva One', cursive;
+    font-size: 70px;
 }
 .flexible-container{
     display: flex;
@@ -36,6 +39,8 @@ text-align: center;
 .illustrator-height{
     height: 180px;
 }
+
+
 #mission{
     background-color:rgb(79, 157, 166);
     width: 20%;
@@ -54,9 +59,10 @@ text-align: center;
     margin-left: 150px;
     padding-left: 10px;
 }
-#coding-img-height{
+.img-height{
     height: 500px;
 }
+
 .develop-without-limits{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
@@ -66,4 +72,35 @@ text-align: center;
     width: 80%;
     margin-top: 170px;
     padding-right: 200px;
+}
+
+.half-width-3{
+    width: 80%;
+    padding-left: 140px;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-size:30px;
+}
+.half-width-standard{
+    width: 50%;
+}
+.site-footer{
+    background-color: black;
+    height: 200px;
+    padding-top: 20px;
+}
+#white-text-footer{
+    color: white;
+}
+#red-text-footer{
+    color:red;
+}
+#Lobster-font-footer{
+    font-family: 'Lobster', cursive;
+    font-size:40px ;
 }
