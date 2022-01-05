@@ -1,0 +1,28 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+    padding-left: 15px;
+}
+.yellowgreen-color{
+    color:yellowgreen;
+}
+.half-width-1{
+    width: 50%;
+    padding-left: 150px;
+    margin-top: 150px;
+}
+#design-2022-border{
+    border-left: 5px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
+}
+.style-explore{
+    text-decoration: none;
+    background-image: linear-gradient(blue,gray);
+    color:white;
+    border-radius: 10px;
+    padding: 10px 40px;
+}
