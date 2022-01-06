@@ -66,10 +66,7 @@ text-align: center;
     margin-left: 200px;
     padding-left: 10px;  
 }
-#contact-us{
-    background-color: turquoise;
 
-}
 .img-height{
     height: 500px;
 }
@@ -118,4 +115,39 @@ h3{
 #Lobster-font-footer{
     font-family: 'Lobster', cursive;
     font-size:40px ;
+}
+#fname-text{
+    width: 100%;
+    padding: 6px 2px;
+    margin: 5px 0;
+    border: 2px solid;
+    border-radius: 5px;
+}
+#email-text{
+    width: 100%;
+    padding: 6px 2px;
+    margin: 5px 0;
+    border: 2px solid;
+    border-radius: 5px;
+}
+#pnumber{
+    width: 100%;
+    padding: 6px 2px;
+    margin: 5px 0;
+    border: 2px solid;
+    border-radius: 5px;
+}
+#tarea-text{
+    width: 100%;
+    padding: 15px 2px;
+    margin: 15px 0;
+    border: 2px solid;
+    border-radius: 5px;
+}
+#submit-contact{
+    text-decoration: none;
+    background-image: linear-gradient(blue,gray);
+    color:white;
+    border-radius: 10px;
+    padding: 10px 40px;
 }
