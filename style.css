@@ -47,22 +47,25 @@ text-align: center;
 
 
 #mission{
-    background-color:rgb(79, 157, 166);
+    background-color:rgb(79, 157, 166, 0.3);
     width: 20%;
     padding-left: 10px;
     margin-left: 200px;
+    border-radius: 10px;
 }
 #vission{
-    background-color:rgb(255, 89, 89);
+    background-color:rgb(255, 89, 89, 0.3);
     width: 20%;
     margin-left: 200px;
     padding-left: 10px;
+    border-radius: 10px;
 }
 #goals{
     background-color:rgb(255, 224, 214);
     width: 20%;
     margin-left: 200px;
     padding-left: 10px;
+    border-radius: 10px;
 }
 #contact-us{
     background-color: turquoise;
