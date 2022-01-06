@@ -64,8 +64,7 @@ text-align: center;
     background-color:rgb(255, 224, 214);
     width: 20%;
     margin-left: 200px;
-    padding-left: 10px;
-    border-radius: 10px;
+    padding-left: 10px;  
 }
 #contact-us{
     background-color: turquoise;
@@ -106,6 +105,9 @@ h3{
     background-color: black;
     height: 200px;
     padding-top: 20px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -10px;
 }
 #white-text-footer{
     color: white;
