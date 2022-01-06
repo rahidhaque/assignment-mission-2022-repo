@@ -90,7 +90,7 @@ text-align: center;
 }
 h2{
     font-family: 'Poppins', sans-serif;
-    font-size: 60px;
+    font-size: 50px;
 }
 h3{
     font-family: 'Poppins', sans-serif;
@@ -147,6 +147,11 @@ h3{
     margin: 15px 0;
     border: 2px solid;
     border-radius: 5px;
+}
+.half-width-5{
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 250px;
 }
 #submit-contact{
     text-decoration: none;
